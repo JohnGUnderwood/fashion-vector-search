@@ -3,3 +3,6 @@ encoder/images/**
 **/__pycache__
 
 **/.DS_Store
+
+config_database.py
+config/config_database.py
